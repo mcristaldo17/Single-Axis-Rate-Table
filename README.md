@@ -1,5 +1,5 @@
-# Single-Axis-Rate-Table
-Design and development of a single-axis rate table project for nanosatellites at "Agencia Espacial del Paraguay".
-"Rate Table Codes" incluye los códigos para el microcontrolador Arduino y los códigos de la Interfaz Gráfica del Usuario.
-"Rate Table Design" incluye los diseños y ensamblaje del Banco de Pruebas.
-"Anexos" incluye la documentación detallada.
+# Single-Axis Rate Table
+Design and development of a single-axis rate table project for nanosatellites at the "Agencia Espacial del Paraguay" (Paraguay Space Agency).
+"Rate Table Codes" includes the codes for the Arduino microcontroller and the codes for the User Interface.
+"Rate Table Design" includes the designs and assembly of the Test Bench.
+"Anexxes" include detailed documentation.
