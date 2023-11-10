@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.exe.config
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.exe
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.pdb
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\obj\Debug\AEP___Rate_Table_GUI.Form1.resources
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\obj\Debug\AEP___Rate_Table_GUI.Properties.Resources.resources
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.exe
+C:\Users\HP\Desktop\Universidad\Pasantía\AEP\Rate table codes\AEP - Rate Table GUI\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.pdb
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP___Rate_Table_GUI.Form1.resources
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP___Rate_Table_GUI.Properties.Resources.resources
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.exe
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.pdb
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.exe.config
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.exe
+C:\Users\HP\Desktop\Single-Axis Rate Table\Rate Table Codes\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.pdb
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.exe.config
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.exe
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\bin\Debug\AEP - Rate Table GUI.pdb
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP___Rate_Table_GUI.Form1.resources
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP___Rate_Table_GUI.Properties.Resources.resources
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.exe
+C:\Users\HP\Desktop\Single-Axis-Rate-Table\Rate Table Codes\AEP - Rate Table GUI\obj\Debug\AEP - Rate Table GUI.pdb
